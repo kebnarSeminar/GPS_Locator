@@ -35,7 +35,7 @@ GPS Navigator is a web application designed to provide efficient navigation solu
    ```
     https://github.com/kebnarSeminar/GPS_Locator.git
    ```
-
+   
 2. Navigate to the project directory and open the `index.html` file in your web browser.
 
 3. Input your starting and destination locations to calculate the shortest route using Dijkstra's algorithm.
