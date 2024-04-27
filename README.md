@@ -33,7 +33,7 @@ GPS Navigator is a web application designed to provide efficient navigation solu
 1. Clone the repository to your local machine using the following command:
 
    ```
-   https://github.com/Venkateeshh/GPS-NAVIGATOR.git
+   https://github.com/kebnarSeminar/GPS-Locator.git
    ```
 
 2. Navigate to the project directory and open the `index.html` file in your web browser.
